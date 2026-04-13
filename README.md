@@ -5,7 +5,7 @@ ESP32 CYD Casino System (Cheap Yellow Display)
 </p>
 
 <p align="center">
-  <img src="banner.png" width="700">
+  <img src="assets/IMG_0761.jpeg" width="700">
 </p>
 
 <p align="center">
