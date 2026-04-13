@@ -1,7 +1,7 @@
 <div align="center">
 
 # :trollface: ROYAL CASINO v7.0 :trollface:
->(If you want to use this project commercially, contact me)
+>If you want to use this project commercially, contact me
 
 ### Premium ESP32 CYD Casino Firmware for the Cheap Yellow Display
 
