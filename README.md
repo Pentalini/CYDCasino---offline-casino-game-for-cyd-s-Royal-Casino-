@@ -568,9 +568,9 @@ The original project "ROYAL CASINO" remains the property of the author.
 
 If you like this project:
 
-- ⭐ Star the repository  
-- 🍴 Fork it  
-- 📢 Share it  
+⭐ Star the repository  
+🍴 Fork it  
+📢 Share it  
 
 It helps the project grow!
 
@@ -580,3 +580,4 @@ It helps the project grow!
 </p>
 
 </div>
+If you want to use this project commercially, contact me.
