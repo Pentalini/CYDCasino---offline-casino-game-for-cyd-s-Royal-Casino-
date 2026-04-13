@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/TWOJ_USERNAME/TWOJE_REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Pentalini/CYDCasino---offline-casino-game-for-cyd-s-Royal-Casino-?style=for-the-badge">
   <img src="https://img.shields.io/badge/version-v7.0-f6c744?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/board-ESP32--2432S028-e7352c?style=for-the-badge" alt="ESP32 CYD">
   <img src="https://img.shields.io/badge/display-320%C3%97240-3fb950?style=for-the-badge" alt="320x240 Display">
