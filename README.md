@@ -17,6 +17,7 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/github/stars/TWOJ_USERNAME/TWOJE_REPO?style=for-the-badge">
   <img src="https://img.shields.io/badge/version-v7.0-f6c744?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/board-ESP32--2432S028-e7352c?style=for-the-badge" alt="ESP32 CYD">
   <img src="https://img.shields.io/badge/display-320%C3%97240-3fb950?style=for-the-badge" alt="320x240 Display">
@@ -551,7 +552,7 @@ You are allowed to:
 You are NOT allowed to:
 - Sell this software in its original or slightly modified form
 - Redistribute this project as your own
-- Upload or share copies of this project without permission
+- Redistribute this project outside of this repository without permission
 
 If you create a significantly modified and original project based on this code,
 you may distribute or sell it, but it must not be a direct copy or minor variation.
